@@ -1,5 +1,8 @@
 # 2048 Gaming App on Kubernetes Cluster using Fargate
 
+![Alt text](Full-Architecture.png)
+----
+
 This project demonstrates the deployment of the popular "2048" game on an AWS EKS cluster using Fargate for serverless Kubernetes. The project includes setting up an EKS cluster, configuring Kubernetes access, creating a Fargate profile, deploying the application, and managing traffic using an Application Load Balancer (ALB) controller.
 
 
